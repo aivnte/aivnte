@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently building [Zaips](https://zaips.com), a boutique AI consultancy operating on an invite-only basis.
 - 🚀 At Zaips, we develop products that serve as virtual brains for businesses, capable of generating high-quality content, understanding complex data, and making informed decisions in real-time.
-- 💼 Over the past year, we've saved our current client €147,000 and counting.
+- 💼 Over the past year, we've saved our clients hundreds of thousands and counting.
 - 💻 I specialize in building AI systems and conducting research in prompt engineering, AI, AI agents, and all things Large Language Models (LLMs).
 
 ## Projects
