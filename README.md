@@ -1,4 +1,4 @@
-👋 Hi there! I'm [Adam], 
+👋 Hi there! I'm Adam, 
 
 ## About Me
 
