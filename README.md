@@ -8,6 +8,6 @@ We work on a retainer basis, offering customized solutions tailored to each clie
 
 ## Contact Me
 
-📫 Feel free to reach out to me at [adam@zaips.com](mailto:adam@zaips.com) for collaborations or inquiries.
+Reach out to me at [adam@zaips.com](mailto:adam@zaips.com) for collaborations or inquiries.
 
 
