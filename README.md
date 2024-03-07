@@ -6,7 +6,7 @@ We also offer advisory services to SMEs looking to leverage Gen AI for content a
 
 ### Research
 
-We publish our research [here](https://github.com/aivnte/zaips-research).
+We publish research [here](https://github.com/aivnte/zaips-research).
 
 ### Contact Me
 
